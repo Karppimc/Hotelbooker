@@ -24,4 +24,6 @@ reserved with that.
 
 This program uses 5 functions besides main function. I have used both structures and arrays 
 to store data. I have commented throughout the code so that everyone could understand 
-what my code does
+what my code does.
+
+![image](https://github.com/Karppimc/Hotelbooker/assets/54446639/c8969fe0-6402-4993-98fd-ec99def1afcf)
