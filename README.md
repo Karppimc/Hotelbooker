@@ -26,4 +26,5 @@ This program uses 5 functions besides main function. I have used both structures
 to store data. I have commented throughout the code so that everyone could understand 
 what my code does.
 
-![image](https://github.com/Karppimc/Hotelbooker/assets/54446639/c8969fe0-6402-4993-98fd-ec99def1afcf)
+![image](https://github.com/Karppimc/Hotelbooker/assets/54446639/28e05384-b9a9-4ffa-acca-82eae0522e37)
+
