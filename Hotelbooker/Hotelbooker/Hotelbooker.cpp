@@ -1,6 +1,5 @@
 // Hotel room reservation system
-// Santeri Karppinen 2203820
-// Grade 4 
+// Santeri Karppinen 
 // I have commented throughout this code what everything does
 // 
 // 
