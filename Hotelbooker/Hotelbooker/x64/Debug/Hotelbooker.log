@@ -1,0 +1,3 @@
+﻿  Hotelbooker.cpp
+C:\Users\Sande\source\repos\Hotelbooker\Hotelbooker\Hotelbooker.cpp(161,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hotelbooker.vcxproj -> C:\Users\Sande\source\repos\Hotelbooker\x64\Debug\Hotelbooker.exe
