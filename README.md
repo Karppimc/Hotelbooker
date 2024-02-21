@@ -1,5 +1,6 @@
 # Hotelbooker
 This hotelroom booker was developed by me using C++ in Visual Studio
+Code can be found here: Hotelbooker/Hotelbooker/Hotelbooker.cpp
 
 ## How it works?
 When opening reservation system program welcomes user and shows the menu where user 
